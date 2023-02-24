@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DigitalClock_React/static/css/main.073c9b0a.css",
+    "main.js": "/DigitalClock_React/static/js/main.7501962e.js",
+    "static/media/logo.svg": "/DigitalClock_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DigitalClock_React/index.html",
+    "main.073c9b0a.css.map": "/DigitalClock_React/static/css/main.073c9b0a.css.map",
+    "main.7501962e.js.map": "/DigitalClock_React/static/js/main.7501962e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7501962e.js"
+  ]
+}
